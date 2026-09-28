@@ -1,0 +1,6 @@
+{
+  "name": "المقرئ الذكي",
+  "description": "تطبيق المقرئ الذكي للتعرف على قراء القرآن الكريم، تقييم التلاوة بالذكاء الاصطناعي، مسابقات دينية، وتتبع الورد اليومي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
